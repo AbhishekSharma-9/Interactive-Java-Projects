@@ -22,7 +22,8 @@ git clone https://github.com/AbhishekSharma-9/Interactive-Java-Projects.git
 
 Navigate to the project directory: cd Interactive-Java-Projects
 
-Compile and run the desired Java file: javac ProjectName.java java ProjectName
+Compile and run the desired Java file: javac ProjectName.java 
+java ProjectName
 Replace ProjectName with the specific file name you wish to execute.
 
 License
